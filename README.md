@@ -1,2 +1,2 @@
 # About this repository
-Those are the exercises I made to learn c# syntax, following along the freeCodeCamp tutorial: "C# Tutorial" available at this link https://www.youtube.com/watch?v=GhQdlIFylQ8&t=3406s.
+These are the exercises I made to learn c# syntax, following along the freeCodeCamp tutorial: "C# Tutorial" available at this link https://www.youtube.com/watch?v=GhQdlIFylQ8&t=3406s.
