@@ -8,7 +8,7 @@ using System;
 
     public class Program
     {
-        static void Main(string[] args)
+        static void non_Main(string[] args)
         {
             Say_hi("Paola", 23);
             Is_male("Martino");
