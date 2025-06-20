@@ -3,7 +3,7 @@
 namespace For_Loops {
     class Program
     {
-        static void Main(string[] args)
+        static void non_Main(string[] args)
         {
             int[] lucky_numbers = { 4, 45, 100, 400 };
 

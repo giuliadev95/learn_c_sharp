@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "El
 		Cabdidature_metodo.cs = Cabdidature_metodo.cs
 		Exercise_2.cs = Exercise_2.cs
 		Exercise_3.cs = Exercise_3.cs
+		Exponent_method.cs = Exponent_method.cs
 		For_Loop.cs = For_Loop.cs
 		Guessing_Game.cs = Guessing_Game.cs
 		README.md = README.md
