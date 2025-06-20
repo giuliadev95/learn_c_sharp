@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "El
 	ProjectSection(SolutionItems) = preProject
 		Exercise_2.cs = Exercise_2.cs
 		Exercise_3.cs = Exercise_3.cs
+		Guessing_Game.cs = Guessing_Game.cs
 		README.md = README.md
+		While_Loops.cs = While_Loops.cs
 	EndProjectSection
 EndProject
 Global

@@ -7,14 +7,25 @@ namespace Giraffe
 {
     class Program
     {
-        static void Main(string[] args)
+        static void NonMain(string[] args)
         {
-            int index = 1;
+            // While Loop
+            int index = 5;
             while ( index <= 5 )
             {
                 Console.WriteLine(index);
                 index++;
             }
+
+            // Do While Loop
+            int six_index = 6;
+            do
+            {
+                Console.WriteLine(six_index);
+                six_index++;
+            }
+            while (six_index <= 5);
+
             Console.ReadLine();
         }
     }

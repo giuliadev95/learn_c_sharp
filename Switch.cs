@@ -7,7 +7,7 @@ namespace tutorial_exercises
     public class Switch
     {
 
-        static void Main(string[] args)
+        static void Non_Main(string[] args)
         {
             Console.WriteLine(Get_day(4));
             Console.ReadLine();
