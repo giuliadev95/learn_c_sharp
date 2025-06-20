@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tutorial_exercises", "tutor
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "Elementi di soluzione", "{9DF70304-0A22-CE1E-AA12-D5904EE55694}"
 	ProjectSection(SolutionItems) = preProject
+		Cabdidature_metodo.cs = Cabdidature_metodo.cs
 		Exercise_2.cs = Exercise_2.cs
 		Exercise_3.cs = Exercise_3.cs
 		Guessing_Game.cs = Guessing_Game.cs
