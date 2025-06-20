@@ -20,7 +20,7 @@ class Program
                 Console.WriteLine("You win!");
             } else
             {
-                Console.WriteLine("You loose!");
+                Console.WriteLine("You lose!");
             }
             Console.ReadLine();
         }
