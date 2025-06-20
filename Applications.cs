@@ -8,7 +8,7 @@ namespace Candidature
 {
     class Program
     {
-        static int Main ()
+        static int N_Main ()
         {
             Console.Write("Your application number: ");
             string application_number = Console.ReadLine();
